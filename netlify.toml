@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to ="/notes.html"
+to ="/index.js"
 status = 200
