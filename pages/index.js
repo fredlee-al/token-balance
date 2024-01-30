@@ -253,7 +253,7 @@ export default function Home() {
           <div className="p-4 text-center">
             <div>
               <a href="https://www.github.com" className="text-blue-500">
-               Made at UDYAMITSAV'24 
+               Powered by Quicknode 
               </a>
               <br />
             </div>
